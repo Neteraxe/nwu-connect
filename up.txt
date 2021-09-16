@@ -1,0 +1,7 @@
+{
+        "deviceType": "PC", 
+        "webAuthUser": "", 
+        "webAuthPassword": "",
+        "remember": "True",
+        "type": "login"
+}
